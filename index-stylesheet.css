@@ -1,0 +1,8 @@
+.hero {
+    text-align: center;
+    /* creating space around the hero's content */
+    padding: 5%; 
+}
+.hero h1 {
+    font-size: 65px;
+}
