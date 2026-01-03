@@ -1,8 +1,43 @@
 .hero {
+    background-color: gray;
+    position: relative;
     text-align: center;
+    background-image: url("images/restaurant-index-hero.jpeg"); 
     /* creating space around the hero's content */
-    padding: 5%; 
+    padding: 5%;
+
 }
 .hero h1 {
     font-size: 65px;
+    color: white;
+    /* position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) */
+} 
+/* .hero button {
+    position: absolute;
+    font-size: 25px;
+    font-family: sans-serif;
+    padding: 10px;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%) 
+}
+.hero img {
+    width: 100%;
+
+} */
+
+.container {
+    /* padding: 5%; */
+    height: 700px;
+    width: auto;
+}
+
+.container1 img {
+    height: auto;
+    width: 512px;
+
+    margin-top: 20px;
 }
